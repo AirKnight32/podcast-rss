@@ -21,5 +21,16 @@
       <itunes:episode>11</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Secret Life of Sweat</title>
+      <description>Uncover the mysterious world of body odor and the science behind why we smell. From bacteria to sweat, this episode explores the hidden truths of how our bodies communicate through scent.</description>
+      <itunes:summary>Uncover the mysterious world of body odor and the science behind why we smell. From bacteria to sweat, this episode explores the hidden truths of how our bodies communicate through scent.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Body_Oddities/BO_EP012_Secret_Life_Sweat.mp3" length="4646870" type="audio/mpeg" />
+      <guid isPermaLink="false">BO_EP012_Secret_Life_Sweat</guid>
+      <pubDate>Fri, 18 Sep 2026 16:27:12 +0000</pubDate>
+      <itunes:duration>0:09:01</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
