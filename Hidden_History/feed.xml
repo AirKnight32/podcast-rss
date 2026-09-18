@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hidden History</title>
-    <link>https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Hidden_History/cover.jpg</link>
+    <link>https://AirKnight32.github.io/podcast-rss/Hidden_History/cover.jpg</link>
     <language>en-us</language>
     <description>The overlooked stories and forgotten corners of world history.</description>
     <itunes:author>PulseAndPixelNet</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="History" />
-    <itunes:image href="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Hidden_History/cover.jpg" />
-    <image><url>https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Hidden_History/cover.jpg</url><title>Hidden History</title><link>https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Hidden_History/cover.jpg</link></image>
+    <itunes:image href="https://AirKnight32.github.io/podcast-rss/Hidden_History/cover.jpg" />
+    <image><url>https://AirKnight32.github.io/podcast-rss/Hidden_History/cover.jpg</url><title>Hidden History</title><link>https://AirKnight32.github.io/podcast-rss/Hidden_History/cover.jpg</link></image>
     <item>
       <title>The Forgotten Engineers of the Ancient World</title>
       <description>Explore the hidden legacy of ancient engineers who built the world's most amazing structures without modern tools. From the pyramids of Egypt to the aqueducts of Rome, discover how these forgotten visionaries shaped the world we know today.</description>
       <itunes:summary>Explore the hidden legacy of ancient engineers who built the world's most amazing structures without modern tools. From the pyramids of Egypt to the aqueducts of Rome, discover how these forgotten visionaries shaped the world we know today.</itunes:summary>
-      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Hidden_History/HH_EP011_Forgotten_Engineers_Ancient_World.mp3" length="5840896" type="audio/mpeg" />
+      <enclosure url="https://AirKnight32.github.io/podcast-rss/Hidden_History/HH_EP011_Forgotten_Engineers_Ancient_World.mp3" length="5840896" type="audio/mpeg" />
       <guid isPermaLink="false">HH_EP011_Forgotten_Engineers_Ancient_World</guid>
       <pubDate>Fri, 18 Sep 2026 13:58:08 +0000</pubDate>
       <itunes:duration>0:10:54</itunes:duration>
