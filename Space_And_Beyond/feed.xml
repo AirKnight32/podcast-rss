@@ -21,5 +21,16 @@
       <itunes:episode>11</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Invisible Thread</title>
+      <description>Explore how dark matter shapes the structure of the universe through the cosmic web. Discover the invisible force that holds galaxies together and influences the distribution of visible matter. This episode delves into the mysteries of dark matter and its role in the formation of the universe's intricate structure.</description>
+      <itunes:summary>Explore how dark matter shapes the structure of the universe through the cosmic web. Discover the invisible force that holds galaxies together and influences the distribution of visible matter. This episode delves into the mysteries of dark matter and its role in the formation of the universe's intricate structure.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Space_And_Beyond/SB_EP012_Invisible_Thread.mp3" length="7039268" type="audio/mpeg" />
+      <guid isPermaLink="false">SB_EP012_Invisible_Thread</guid>
+      <pubDate>Fri, 18 Sep 2026 16:15:48 +0000</pubDate>
+      <itunes:duration>0:12:46</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
