@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Space &amp; Beyond</title>
-    <link>https://AirKnight32.github.io/podcast-rss/Space_And_Beyond/cover.jpg</link>
+    <link>https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Space_And_Beyond/cover.jpg</link>
     <language>en-us</language>
     <description>Space, astronomy, and everything beyond our world.</description>
     <itunes:author>PulseAndPixelNet</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science" />
-    <itunes:image href="https://AirKnight32.github.io/podcast-rss/Space_And_Beyond/cover.jpg" />
-    <image><url>https://AirKnight32.github.io/podcast-rss/Space_And_Beyond/cover.jpg</url><title>Space &amp; Beyond</title><link>https://AirKnight32.github.io/podcast-rss/Space_And_Beyond/cover.jpg</link></image>
+    <itunes:image href="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Space_And_Beyond/cover.jpg" />
+    <image><url>https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Space_And_Beyond/cover.jpg</url><title>Space &amp; Beyond</title><link>https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Space_And_Beyond/cover.jpg</link></image>
     <item>
       <title>The Mysterious Dark Matter</title>
       <description>Explore the enigma of dark matter, its role in the universe, and the cutting-edge efforts to detect it. Discover why scientists believe it exists and what the future holds for unraveling this cosmic mystery.</description>
       <itunes:summary>Explore the enigma of dark matter, its role in the universe, and the cutting-edge efforts to detect it. Discover why scientists believe it exists and what the future holds for unraveling this cosmic mystery.</itunes:summary>
-      <enclosure url="https://AirKnight32.github.io/podcast-rss/Space_And_Beyond/SB_EP011_Mysterious_Dark_Matter.mp3" length="6692509" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Space_And_Beyond/SB_EP011_Mysterious_Dark_Matter.mp3" length="6692509" type="audio/mpeg" />
       <guid isPermaLink="false">SB_EP011_Mysterious_Dark_Matter</guid>
       <pubDate>Fri, 18 Sep 2026 14:12:55 +0000</pubDate>
       <itunes:duration>0:12:05</itunes:duration>
