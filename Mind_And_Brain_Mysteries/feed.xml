@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mind &amp; Brain Mysteries</title>
-    <link>https://AirKnight32.github.io/podcast-rss/Mind_And_Brain_Mysteries/cover.jpg</link>
+    <link>https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Mind_And_Brain_Mysteries/cover.jpg</link>
     <language>en-us</language>
     <description>Exploring the strange, surprising science of the human mind and brain.</description>
     <itunes:author>PulseAndPixelNet</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Science" />
-    <itunes:image href="https://AirKnight32.github.io/podcast-rss/Mind_And_Brain_Mysteries/cover.jpg" />
-    <image><url>https://AirKnight32.github.io/podcast-rss/Mind_And_Brain_Mysteries/cover.jpg</url><title>Mind &amp; Brain Mysteries</title><link>https://AirKnight32.github.io/podcast-rss/Mind_And_Brain_Mysteries/cover.jpg</link></image>
+    <itunes:image href="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Mind_And_Brain_Mysteries/cover.jpg" />
+    <image><url>https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Mind_And_Brain_Mysteries/cover.jpg</url><title>Mind &amp; Brain Mysteries</title><link>https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Mind_And_Brain_Mysteries/cover.jpg</link></image>
     <item>
       <title>Dreams Speak in Symbols</title>
       <description>Explore the hidden language of dreams and how your brain communicates during sleep. Discover the science behind dreams, the symbols that appear, and what they might reveal about your mind. A journey into the mysteries of the dreaming brain.</description>
       <itunes:summary>Explore the hidden language of dreams and how your brain communicates during sleep. Discover the science behind dreams, the symbols that appear, and what they might reveal about your mind. A journey into the mysteries of the dreaming brain.</itunes:summary>
-      <enclosure url="https://AirKnight32.github.io/podcast-rss/Mind_And_Brain_Mysteries/MBM_EP011_Dreams_Speak_Symbols.mp3" length="5552403" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Mind_And_Brain_Mysteries/MBM_EP011_Dreams_Speak_Symbols.mp3" length="5552403" type="audio/mpeg" />
       <guid isPermaLink="false">MBM_EP011_Dreams_Speak_Symbols</guid>
       <pubDate>Fri, 18 Sep 2026 13:29:34 +0000</pubDate>
       <itunes:duration>0:10:32</itunes:duration>
@@ -25,7 +25,7 @@
       <title>How Your Brain Stores Memories</title>
       <description>Explore the intricate process of how your brain stores and retrieves memories. From encoding to retrieval, this episode dives into the science behind memory formation, the role of the brain's regions, and the challenges of forgetting. Learn how memories are shaped, why they can change over time, and practical ways to improve memory retention.</description>
       <itunes:summary>Explore the intricate process of how your brain stores and retrieves memories. From encoding to retrieval, this episode dives into the science behind memory formation, the role of the brain's regions, and the challenges of forgetting. Learn how memories are shaped, why they can change over time, and practical ways to improve memory retention.</itunes:summary>
-      <enclosure url="https://AirKnight32.github.io/podcast-rss/Mind_And_Brain_Mysteries/MBM_EP012_Brain_Stores_Memories.mp3" length="5932530" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Mind_And_Brain_Mysteries/MBM_EP012_Brain_Stores_Memories.mp3" length="5932530" type="audio/mpeg" />
       <guid isPermaLink="false">MBM_EP012_Brain_Stores_Memories</guid>
       <pubDate>Fri, 18 Sep 2026 15:27:32 +0000</pubDate>
       <itunes:duration>0:11:13</itunes:duration>
