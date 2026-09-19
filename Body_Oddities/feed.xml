@@ -32,5 +32,16 @@
       <itunes:episode>12</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Curious Case of the Human Tongue</title>
+      <description>Explore the fascinating world of taste, from how we actually taste things to why our palates vary so much. Discover the surprising secrets of our taste buds and how they shape our culinary experiences. Perfect for anyone curious about the science behind flavor.</description>
+      <itunes:summary>Explore the fascinating world of taste, from how we actually taste things to why our palates vary so much. Discover the surprising secrets of our taste buds and how they shape our culinary experiences. Perfect for anyone curious about the science behind flavor.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Body_Oddities/BO_EP013_Curious_Case_Human_Tongue.mp3" length="4769068" type="audio/mpeg" />
+      <guid isPermaLink="false">BO_EP013_Curious_Case_Human_Tongue</guid>
+      <pubDate>Sat, 19 Sep 2026 05:42:16 +0000</pubDate>
+      <itunes:duration>0:09:19</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
