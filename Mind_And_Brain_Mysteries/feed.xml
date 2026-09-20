@@ -43,5 +43,16 @@
       <itunes:episode>13</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Brain's Default Mode Network</title>
+      <description>Explore the enigmatic world of the brain's default mode network. Discover what happens when we're not focused on a task and how this network influences our thoughts, memories, and creativity. This episode dives into the science behind the brain's resting state and its role in our daily lives.</description>
+      <itunes:summary>Explore the enigmatic world of the brain's default mode network. Discover what happens when we're not focused on a task and how this network influences our thoughts, memories, and creativity. This episode dives into the science behind the brain's resting state and its role in our daily lives.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Mind_And_Brain_Mysteries/MBM_EP014_Brain's_Default_Mode_Network.mp3" length="5763281" type="audio/mpeg" />
+      <guid isPermaLink="false">MBM_EP014_Brain's_Default_Mode_Network</guid>
+      <pubDate>Sun, 20 Sep 2026 09:36:44 +0000</pubDate>
+      <itunes:duration>0:10:52</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
