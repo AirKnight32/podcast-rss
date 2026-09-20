@@ -43,5 +43,16 @@
       <itunes:episode>13</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Secret Routes That Built Empires</title>
+      <description>This episode explores how secret trade routes shaped ancient civilizations, uncovering the hidden networks that connected distant cultures and influenced the rise and fall of empires. Discover how these secret pathways spread ideas, technologies, and even diseases across the ancient world.</description>
+      <itunes:summary>This episode explores how secret trade routes shaped ancient civilizations, uncovering the hidden networks that connected distant cultures and influenced the rise and fall of empires. Discover how these secret pathways spread ideas, technologies, and even diseases across the ancient world.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Hidden_History/HH_EP014_Secret_Routes_Built_Empires.mp3" length="6083262" type="audio/mpeg" />
+      <guid isPermaLink="false">HH_EP014_Secret_Routes_Built_Empires</guid>
+      <pubDate>Sun, 20 Sep 2026 09:47:57 +0000</pubDate>
+      <itunes:duration>0:11:20</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
