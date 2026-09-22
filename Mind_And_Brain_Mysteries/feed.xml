@@ -76,5 +76,16 @@
       <itunes:episode>15</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Gut-Brain Connection</title>
+      <description>Explore the fascinating link between gut bacteria and mental health. Discover how the microbes in our gut influence our emotions, behavior, and even our thoughts. This episode delves into the science behind the gut-brain connection and its potential impact on mental health treatment.</description>
+      <itunes:summary>Explore the fascinating link between gut bacteria and mental health. Discover how the microbes in our gut influence our emotions, behavior, and even our thoughts. This episode delves into the science behind the gut-brain connection and its potential impact on mental health treatment.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Mind_And_Brain_Mysteries/MBM_EP016_Gut-brain_Connection.mp3" length="6050760" type="audio/mpeg" />
+      <guid isPermaLink="false">MBM_EP016_Gut-brain_Connection</guid>
+      <pubDate>Tue, 22 Sep 2026 06:07:54 +0000</pubDate>
+      <itunes:duration>0:11:29</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
