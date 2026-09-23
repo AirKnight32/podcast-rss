@@ -76,5 +76,16 @@
       <itunes:episode>16</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Body's Secret Repair Squad</title>
+      <description>Explore the fascinating science behind how your body repairs and regenerates tissues, from skin wounds to organ regeneration and the role of stem cells. Discover the hidden processes that allow your body to heal and the potential for future medical breakthroughs.</description>
+      <itunes:summary>Explore the fascinating science behind how your body repairs and regenerates tissues, from skin wounds to organ regeneration and the role of stem cells. Discover the hidden processes that allow your body to heal and the potential for future medical breakthroughs.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Body_Oddities/BO_EP017_Body's_Secret_Repair_Squad.mp3" length="5185632" type="audio/mpeg" />
+      <guid isPermaLink="false">BO_EP017_Body's_Secret_Repair_Squad</guid>
+      <pubDate>Wed, 23 Sep 2026 06:01:05 +0000</pubDate>
+      <itunes:duration>0:10:05</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
