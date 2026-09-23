@@ -76,5 +76,16 @@
       <itunes:episode>16</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Cosmic Puzzle of Neutron Stars</title>
+      <description>Explore the fascinating world of neutron stars—dense remnants of exploded stars that reveal secrets of extreme physics and stellar evolution. Discover how these cosmic laboratories shape the universe and offer insights into the fundamental forces of nature.</description>
+      <itunes:summary>Explore the fascinating world of neutron stars—dense remnants of exploded stars that reveal secrets of extreme physics and stellar evolution. Discover how these cosmic laboratories shape the universe and offer insights into the fundamental forces of nature.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Space_And_Beyond/SB_EP017_Cosmic_Puzzle_Neutron_Stars.mp3" length="7312729" type="audio/mpeg" />
+      <guid isPermaLink="false">SB_EP017_Cosmic_Puzzle_Neutron_Stars</guid>
+      <pubDate>Wed, 23 Sep 2026 05:55:59 +0000</pubDate>
+      <itunes:duration>0:13:15</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
