@@ -76,5 +76,16 @@
       <itunes:episode>16</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Secrets in Stone</title>
+      <description>Explore the hidden messages in ancient Roman mosaics and uncover the secret symbols that once communicated power, identity, and even warnings. This episode delves into the world of Roman public art, revealing how these intricate designs were more than just decoration—they were a form of storytelling that shaped the culture of the Empire.</description>
+      <itunes:summary>Explore the hidden messages in ancient Roman mosaics and uncover the secret symbols that once communicated power, identity, and even warnings. This episode delves into the world of Roman public art, revealing how these intricate designs were more than just decoration—they were a form of storytelling that shaped the culture of the Empire.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Hidden_History/HH_EP017_Secrets_Stone.mp3" length="5553665" type="audio/mpeg" />
+      <guid isPermaLink="false">HH_EP017_Secrets_Stone</guid>
+      <pubDate>Wed, 23 Sep 2026 05:49:48 +0000</pubDate>
+      <itunes:duration>0:10:26</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
