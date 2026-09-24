@@ -98,5 +98,16 @@
       <itunes:episode>18</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Hidden Calculations of Ancient Rome</title>
+      <description>This episode explores the mathematical brilliance behind the construction of the Colosseum and other Roman wonders. Discover how ancient engineers used geometry, arithmetic, and practical techniques to create structures that have stood the test of time. A journey into the hidden calculations of ancient Rome.</description>
+      <itunes:summary>This episode explores the mathematical brilliance behind the construction of the Colosseum and other Roman wonders. Discover how ancient engineers used geometry, arithmetic, and practical techniques to create structures that have stood the test of time. A journey into the hidden calculations of ancient Rome.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Hidden_History/HH_EP019_Hidden_Calculations_Ancient_Rome.mp3" length="6010832" type="audio/mpeg" />
+      <guid isPermaLink="false">HH_EP019_Hidden_Calculations_Ancient_Rome</guid>
+      <pubDate>Thu, 24 Sep 2026 12:57:45 +0000</pubDate>
+      <itunes:duration>0:11:11</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
