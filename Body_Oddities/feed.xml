@@ -87,5 +87,16 @@
       <itunes:episode>17</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Lymphatic System's Secret Mission</title>
+      <description>Discover the hidden role of the lymphatic system in fighting infections, removing waste, and keeping your immune system balanced. This episode of Body Oddities explores how this vital network supports your body's defenses and maintains overall health.</description>
+      <itunes:summary>Discover the hidden role of the lymphatic system in fighting infections, removing waste, and keeping your immune system balanced. This episode of Body Oddities explores how this vital network supports your body's defenses and maintains overall health.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Body_Oddities/BO_EP018_Lymphatic_System's_Secret_Mission.mp3" length="5109571" type="audio/mpeg" />
+      <guid isPermaLink="false">BO_EP018_Lymphatic_System's_Secret_Mission</guid>
+      <pubDate>Thu, 24 Sep 2026 09:53:29 +0000</pubDate>
+      <itunes:duration>0:09:55</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
