@@ -109,5 +109,16 @@
       <itunes:episode>18</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Secret Code of the Brain</title>
+      <description>Explore the hidden language of neurons and how the brain communicates through electrical and chemical signals. Discover the science behind neural networks, the role of neurotransmitters, and the mysteries that still remain in understanding the brain's secret code.</description>
+      <itunes:summary>Explore the hidden language of neurons and how the brain communicates through electrical and chemical signals. Discover the science behind neural networks, the role of neurotransmitters, and the mysteries that still remain in understanding the brain's secret code.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Mind_And_Brain_Mysteries/MBM_EP019_Secret_Code_Brain.mp3" length="5938064" type="audio/mpeg" />
+      <guid isPermaLink="false">MBM_EP019_Secret_Code_Brain</guid>
+      <pubDate>Thu, 24 Sep 2026 12:19:16 +0000</pubDate>
+      <itunes:duration>0:11:13</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
