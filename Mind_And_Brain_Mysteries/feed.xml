@@ -98,5 +98,16 @@
       <itunes:episode>17</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Hidden Networks of the Mind</title>
+      <description>Explore the brain's hidden networks and how they shape our thoughts and behavior. Discover the latest research on the brain's 'dark matter' and what it means for understanding the human mind.</description>
+      <itunes:summary>Explore the brain's hidden networks and how they shape our thoughts and behavior. Discover the latest research on the brain's 'dark matter' and what it means for understanding the human mind.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Mind_And_Brain_Mysteries/MBM_EP018_Hidden_Networks_Mind.mp3" length="6319162" type="audio/mpeg" />
+      <guid isPermaLink="false">MBM_EP018_Hidden_Networks_Mind</guid>
+      <pubDate>Thu, 24 Sep 2026 08:58:57 +0000</pubDate>
+      <itunes:duration>0:11:54</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
