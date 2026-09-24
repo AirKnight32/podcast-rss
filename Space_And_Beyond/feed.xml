@@ -98,5 +98,16 @@
       <itunes:episode>18</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Cosmic Relay</title>
+      <description>A deep dive into how interstellar radio signals travel through space, overcoming cosmic challenges to communicate across light-years. Explore the science behind these signals, their journey, and the future of space communication.</description>
+      <itunes:summary>A deep dive into how interstellar radio signals travel through space, overcoming cosmic challenges to communicate across light-years. Explore the science behind these signals, their journey, and the future of space communication.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Space_And_Beyond/SB_EP019_Cosmic_Relay.mp3" length="7234129" type="audio/mpeg" />
+      <guid isPermaLink="false">SB_EP019_Cosmic_Relay</guid>
+      <pubDate>Thu, 24 Sep 2026 13:17:15 +0000</pubDate>
+      <itunes:duration>0:13:10</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
