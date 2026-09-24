@@ -87,5 +87,16 @@
       <itunes:episode>17</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Secret of the Roman Aqueducts</title>
+      <description>Explore the engineering marvels of the Roman aqueducts and how ancient builders achieved water control without modern tools. Discover the secrets behind their design, construction, and lasting impact on modern engineering.</description>
+      <itunes:summary>Explore the engineering marvels of the Roman aqueducts and how ancient builders achieved water control without modern tools. Discover the secrets behind their design, construction, and lasting impact on modern engineering.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Hidden_History/HH_EP018_Secret_Roman_Aqueducts.mp3" length="5814107" type="audio/mpeg" />
+      <guid isPermaLink="false">HH_EP018_Secret_Roman_Aqueducts</guid>
+      <pubDate>Thu, 24 Sep 2026 09:25:02 +0000</pubDate>
+      <itunes:duration>0:10:52</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
