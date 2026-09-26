@@ -126,5 +126,22 @@ Instagram: @pulseandpixelnet</itunes:summary>
       <itunes:episode>20</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Moon's Giant Impact</title>
+      <description>Explore the origins of the Moon through the Giant Impact Hypothesis. This episode delves into the scientific theories, evidence, and ongoing research that support the idea that the Moon formed from a massive collision between Earth and another celestial body. Discover how this theory explains the Moon's composition and its role in the Earth-Moon system.
+
+Watch our daily shorts on YouTube: https://www.youtube.com/@PulseAndPixelNet
+Instagram: @pulseandpixelnet</description>
+      <itunes:summary>Explore the origins of the Moon through the Giant Impact Hypothesis. This episode delves into the scientific theories, evidence, and ongoing research that support the idea that the Moon formed from a massive collision between Earth and another celestial body. Discover how this theory explains the Moon's composition and its role in the Earth-Moon system.
+
+Watch our daily shorts on YouTube: https://www.youtube.com/@PulseAndPixelNet
+Instagram: @pulseandpixelnet</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Space_And_Beyond/SB_EP021_Moon's_Giant_Impact.mp3" length="7329481" type="audio/mpeg" />
+      <guid isPermaLink="false">SB_EP021_Moon's_Giant_Impact</guid>
+      <pubDate>Sat, 26 Sep 2026 10:36:57 +0000</pubDate>
+      <itunes:duration>0:13:18</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
