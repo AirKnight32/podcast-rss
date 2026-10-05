@@ -279,5 +279,22 @@ Instagram: @pulseandpixelnet</itunes:summary>
       <itunes:episode>30</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Internal Symphony of Your Cellular Clocks</title>
+      <description>Explore the fascinating world of biological timing and the internal clocks found in nearly every cell of your body. Learn how light acts as a master conductor for your rhythms and what happens when your internal timing falls out of sync with the world. Background sources: Wikipedia (CC BY-SA 4.0).
+
+Watch our daily shorts on YouTube: https://www.youtube.com/@PulseAndPixelNet
+Instagram: @pulseandpixelnet</description>
+      <itunes:summary>Explore the fascinating world of biological timing and the internal clocks found in nearly every cell of your body. Learn how light acts as a master conductor for your rhythms and what happens when your internal timing falls out of sync with the world. Background sources: Wikipedia (CC BY-SA 4.0).
+
+Watch our daily shorts on YouTube: https://www.youtube.com/@PulseAndPixelNet
+Instagram: @pulseandpixelnet</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Body_Oddities/BO_EP031_Internal_Symphony_Cellular_Clocks.mp3" length="5124373" type="audio/mpeg" />
+      <guid isPermaLink="false">BO_EP031_Internal_Symphony_Cellular_Clocks</guid>
+      <pubDate>Mon, 05 Oct 2026 05:50:53 +0000</pubDate>
+      <itunes:duration>0:09:56</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
