@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Unutulmuş Bilgiler – Pulse &amp; Pixel Net</title>
+    <link>https://AirKnight32.github.io/podcast-rss</link>
+    <language>tr</language>
+    <description>Roma, Osmanlı ve kayıp imparatorluklardan unutulmuş bilgiler, kayıp teknikler ve şaşırtıcı tarih. Ahmet ve Emel her gün bir konuyu sohbet ederek anlatıyor.</description>
+    <itunes:author>Pulse &amp; Pixel Net</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Pulse &amp; Pixel Net</itunes:name>
+      <itunes:email>developer07tr@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="History" />
+    <itunes:image href="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Unutulmus_Bilgiler/cover_3000.jpg" />
+    <image><url>https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Unutulmus_Bilgiler/cover_3000.jpg</url><title>Unutulmuş Bilgiler – Pulse &amp; Pixel Net</title><link>https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Unutulmus_Bilgiler/cover_3000.jpg</link></image>
+    <item>
+      <title>Gizli Mürekkep ve Casusluk: Maria de Victorica Dosyası</title>
+      <description>Birinci Dünya Savaşı sırasında kullanılan gizli mürekkep teknikleri ve Maria de Victorica'nın casusluk faaliyetleri inceleniyor. İpek eşarplara gizlenen mesajlar ve patlayıcı sevkiyatı planları bu bölümde anlatılıyor.
+
+Pulse &amp; Pixel Net'i YouTube'da izleyin: https://www.youtube.com/@PulseAndPixelNet · Instagram: @pulseandpixelnet
+Kaynak: Wikipedia (CC BY-SA 4.0).</description>
+      <itunes:summary>Birinci Dünya Savaşı sırasında kullanılan gizli mürekkep teknikleri ve Maria de Victorica'nın casusluk faaliyetleri inceleniyor. İpek eşarplara gizlenen mesajlar ve patlayıcı sevkiyatı planları bu bölümde anlatılıyor.
+
+Pulse &amp; Pixel Net'i YouTube'da izleyin: https://www.youtube.com/@PulseAndPixelNet · Instagram: @pulseandpixelnet
+Kaynak: Wikipedia (CC BY-SA 4.0).</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/AirKnight32/podcast-rss/main/Unutulmus_Bilgiler/UB_E001_20261011_gizli-murekkep-ve-casusluk-maria.mp3" length="4393635" type="audio/mpeg" />
+      <guid isPermaLink="false">UB_E001_20261011_gizli-murekkep-ve-casusluk-maria</guid>
+      <pubDate>Sun, 11 Oct 2026 07:51:46 +0000</pubDate>
+      <itunes:duration>0:07:21</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
